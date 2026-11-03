@@ -4,6 +4,10 @@ The Garden is a public-information and historical-research platform under develo
 
 Start with [current status](docs/CURRENT_STATUS.md), [the approved development plan](DEVELOPMENT_PLAN.md), [the canonical PR registry](registry/prs.json), and [AGENTS.md](AGENTS.md). The approved plan contains **210 work items: 196 current public/research items and 14 conditional governmental items**. Planned GDN identifiers and GitHub PR numbers are different identifiers.
 
+## Public website
+
+The public website publishes the address, the Garden Act v1.0, its drafting notes and the nations registry in full, generated directly from the files in `policy/`. See [docs/public-site.md](docs/public-site.md) for what it publishes, how it stays faithful to the documents, and how it is deployed.
+
 ## Verified engineering and deployment
 
 The latest verified implementation and merge counts are in [execution evidence](plan/execution.json) and [progress](plan/progress.json). Each capability's evidence distinguishes code, tests, acceptance, deployment and production verification. Current production verification remains zero.

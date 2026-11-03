@@ -1,0 +1,662 @@
+{
+ "generator": "scripts/generate_public_content.py",
+ "documents": {
+  "address": {
+   "title": "The Garden: the address",
+   "source": "policy/supporting/garden.docx",
+   "source_sha256": "81aa2da64984f853fd44435a4a3ce5871f96bf25d6885c175b1d9309684c540b",
+   "omitted_sections": [],
+   "words": 6710,
+   "toc": []
+  },
+  "act": {
+   "title": "Garden National Restoration and Economic Self-Government Act, version 1.0",
+   "source": "policy/legislation/Garden_Act_v1-0_2026-09-28.md",
+   "source_sha256": "19408127bd669d25590e608d7da6c5654fe6c7f2795f5133fa52350e19a92ba7",
+   "omitted_sections": [],
+   "words": 7205,
+   "toc": [
+    {
+     "id": "title-i",
+     "label": "TITLE I — PURPOSE AND DEFINITIONS",
+     "level": 3
+    },
+    {
+     "id": "title-ii",
+     "label": "TITLE II — HISTORICAL CENSUS AND FOUNDING ROSTER",
+     "level": 3
+    },
+    {
+     "id": "title-iii",
+     "label": "TITLE III — FOUNDING CITIZENSHIP",
+     "level": 3
+    },
+    {
+     "id": "title-iv",
+     "label": "TITLE IV — RECOGNITION AND GOVERNMENTAL POWERS",
+     "level": 3
+    },
+    {
+     "id": "title-v",
+     "label": "TITLE V — GENERAL ASSEMBLY OF NATIONS",
+     "level": 3
+    },
+    {
+     "id": "title-vi",
+     "label": "TITLE VI — LANDS AND VOLUNTARY COMPACTS",
+     "level": 3
+    },
+    {
+     "id": "title-vii",
+     "label": "TITLE VII — ADMISSIBILITY AND PROTECTION OF EXISTING RIGHTS",
+     "level": 3
+    },
+    {
+     "id": "title-viii",
+     "label": "TITLE VIII — PREFERENCES AND NEGOTIATION",
+     "level": 3
+    },
+    {
+     "id": "title-ix",
+     "label": "TITLE IX — FEDERAL INDUSTRY AUTHORIZATIONS",
+     "level": 3
+    },
+    {
+     "id": "title-x",
+     "label": "TITLE X — ENTERPRISES AND COMPACT TERMS",
+     "level": 3
+    },
+    {
+     "id": "title-xi",
+     "label": "TITLE XI — FOUNDING FUND AND ADMINISTRATION",
+     "level": 3
+    },
+    {
+     "id": "title-xii",
+     "label": "TITLE XII — RIGHTS AND REVIEW",
+     "level": 3
+    },
+    {
+     "id": "title-xiii",
+     "label": "TITLE XIII — IMPLEMENTATION AND CONTINUITY",
+     "level": 3
+    }
+   ]
+  },
+  "notes": {
+   "title": "Garden Act source and drafting notes, version 1.0",
+   "source": "policy/legislation/Garden_Act_Source-and-Drafting-Notes_v1-0_2026-09-28.md",
+   "source_sha256": "73e57ec5a83aa8a35fcdbe8f1808ea1ceae747b55598d27c7c82837f2c824ddf",
+   "omitted_sections": [
+    "Project continuity"
+   ],
+   "words": 1808,
+   "toc": [
+    {
+     "id": "the-selected-model",
+     "label": "The selected model",
+     "level": 3
+    },
+    {
+     "id": "answers-about-the-two-tribes",
+     "label": "Answers about the two tribes",
+     "level": 3
+    },
+    {
+     "id": "how-those-powers-appear-in-the-bill",
+     "label": "How those powers appear in the bill",
+     "level": 3
+    },
+    {
+     "id": "constitutional-and-jurisdictional-work-for-legislative-counsel",
+     "label": "Constitutional and jurisdictional work for legislative counsel",
+     "level": 3
+    },
+    {
+     "id": "fidelity-to-the-garden-proposal",
+     "label": "Fidelity to the Garden proposal",
+     "level": 3
+    },
+    {
+     "id": "numerical-drafting-defaults",
+     "label": "Numerical drafting defaults",
+     "level": 3
+    },
+    {
+     "id": "sources",
+     "label": "Sources",
+     "level": 3
+    }
+   ]
+  },
+  "registry": {
+   "title": "Registry of African Tribal Nations, working research edition 1.30-alpha",
+   "source": "policy/historical-research/registry_African-Tribal-Nations_atlas_v1-30-alpha_2026-10-10.docx",
+   "source_sha256": "558d174ca136bcaa0ad1d1999a3c2844261782c7017b6ad826be4133ba4f67e9",
+   "omitted_sections": [],
+   "words": 20384,
+   "toc": [
+    {
+     "id": "registry-codes",
+     "label": "Registry codes",
+     "level": 3
+    },
+    {
+     "id": "section-1-named-nations-polities-and-candidate-umbrellas",
+     "label": "Section 1 - Named nations, polities, and candidate umbrellas",
+     "level": 2
+    },
+    {
+     "id": "named-but-not-yet-located-securely",
+     "label": "Named but not yet located securely",
+     "level": 3
+    },
+    {
+     "id": "section-2-unresolved-origin-research-categories",
+     "label": "Section 2 Unresolved origin research categories",
+     "level": 2
+    },
+    {
+     "id": "exclusion-and-promotion-rules",
+     "label": "Exclusion and promotion rules",
+     "level": 3
+    },
+    {
+     "id": "next-registry-actions",
+     "label": "Next registry actions",
+     "level": 3
+    },
+    {
+     "id": "section-3-classification-controls",
+     "label": "Section 3 — Classification controls",
+     "level": 2
+    },
+    {
+     "id": "section-4-senegambia-and-upper-guinea-verification-ledger",
+     "label": "Section 4 — Senegambia and Upper Guinea verification ledger",
+     "level": 2
+    },
+    {
+     "id": "named-person-anchors-for-this-region",
+     "label": "Named-person anchors for this region",
+     "level": 3
+    },
+    {
+     "id": "no-overlap-test-for-this-revision",
+     "label": "No-overlap test for this revision",
+     "level": 3
+    },
+    {
+     "id": "section-5-gold-coast-to-lower-niger-verification-ledger",
+     "label": "Section 5 — Gold Coast to lower Niger verification ledger",
+     "level": 2
+    },
+    {
+     "id": "correction-record",
+     "label": "Correction record",
+     "level": 3
+    },
+    {
+     "id": "section-2-supplement-unresolved-origin-research-categories",
+     "label": "Section 2 supplement — unresolved-origin research categories",
+     "level": 2
+    },
+    {
+     "id": "section-6-diaspora-labels-excluded-from-the-nation-roster",
+     "label": "Section 6 — Diaspora labels excluded from the nation roster",
+     "level": 2
+    },
+    {
+     "id": "section-7-bight-of-biafra-and-cameroon-verification-ledger",
+     "label": "Section 7 — Bight of Biafra and Cameroon verification ledger",
+     "level": 2
+    },
+    {
+     "id": "entity-separation-rule",
+     "label": "Entity-separation rule",
+     "level": 3
+    },
+    {
+     "id": "section-2-supplement-unresolved-origin-research-categories-2",
+     "label": "Section 2 supplement — unresolved-origin research categories",
+     "level": 2
+    },
+    {
+     "id": "section-8-atlas-aliases-excluded-from-the-nation-roster",
+     "label": "Section 8 — Atlas aliases excluded from the nation roster",
+     "level": 2
+    },
+    {
+     "id": "section-9-west-central-africa-verification-ledger",
+     "label": "Section 9 — West-Central Africa verification ledger",
+     "level": 2
+    },
+    {
+     "id": "section-2-supplement-unresolved-origin-research-categories-3",
+     "label": "Section 2 supplement — unresolved-origin research categories",
+     "level": 2
+    },
+    {
+     "id": "section-10-west-central-atlantic-labels-excluded-from-the-nation-roster",
+     "label": "Section 10 — West-Central Atlantic labels excluded from the nation roster",
+     "level": 2
+    },
+    {
+     "id": "section-11-southeast-africa-and-madagascar-verification-ledger",
+     "label": "Section 11 — Southeast Africa and Madagascar verification ledger",
+     "level": 2
+    },
+    {
+     "id": "section-2-supplement-unresolved-origin-research-categories-4",
+     "label": "Section 2 supplement — unresolved-origin research categories",
+     "level": 2
+    },
+    {
+     "id": "section-12-indian-ocean-labels-excluded-from-the-nation-roster",
+     "label": "Section 12 — Indian Ocean labels excluded from the nation roster",
+     "level": 2
+    },
+    {
+     "id": "section-13-when-a-diaspora-record-can-evidence-a-named-nation",
+     "label": "Section 13 — When a diaspora record can evidence a named nation",
+     "level": 2
+    },
+    {
+     "id": "section-2-unresolved-diaspora-origins",
+     "label": "Section 2 — unresolved diaspora origins",
+     "level": 2
+    },
+    {
+     "id": "section-14-person-record-attachment-ledger",
+     "label": "Section 14 — Person-record attachment ledger",
+     "level": 2
+    },
+    {
+     "id": "section-15-destination-evidence-is-not-origin-evidence",
+     "label": "Section 15 — Destination evidence is not origin evidence",
+     "level": 2
+    },
+    {
+     "id": "section-16-jurisdiction-attachment-requirements",
+     "label": "Section 16 — Jurisdiction attachment requirements",
+     "level": 2
+    },
+    {
+     "id": "section-17-deep-dossier-existence-evidence-ledger",
+     "label": "Section 17 — Deep-dossier existence-evidence ledger",
+     "level": 2
+    },
+    {
+     "id": "section-18-evidence-required-under-every-named-entry",
+     "label": "Section 18 — Evidence required under every named entry",
+     "level": 2
+    },
+    {
+     "id": "a-named-nation-does-not-absorb-every-similar-label",
+     "label": "A named nation does not absorb every similar label",
+     "level": 2
+    },
+    {
+     "id": "section-19-west-central-existence-evidence-ledger",
+     "label": "Section 19 — West-Central existence-evidence ledger",
+     "level": 2
+    },
+    {
+     "id": "section-20-west-central-nonoverlap-controls",
+     "label": "Section 20 — West-Central nonoverlap controls",
+     "level": 2
+    },
+    {
+     "id": "section-21-southeast-and-madagascar-existence-ledger",
+     "label": "Section 21 — Southeast and Madagascar existence ledger",
+     "level": 2
+    },
+    {
+     "id": "section-22-route-proof-and-nonoverlap-controls",
+     "label": "Section 22 — Route-proof and nonoverlap controls",
+     "level": 2
+    },
+    {
+     "id": "section-23-bight-of-biafra-existence-ledger",
+     "label": "Section 23 — Bight of Biafra existence ledger",
+     "level": 2
+    },
+    {
+     "id": "section-24-child-polity-and-port-controls",
+     "label": "Section 24 — Child-polity and port controls",
+     "level": 2
+    },
+    {
+     "id": "section-25-person-to-polity-assertion-ledger",
+     "label": "Section 25 — Person-to-polity assertion ledger",
+     "level": 2
+    },
+    {
+     "id": "section-26-one-person-several-assertion-types",
+     "label": "Section 26 — One person, several assertion types",
+     "level": 2
+    },
+    {
+     "id": "section-27-legal-evidence-and-nation-proof",
+     "label": "Section 27 — Legal evidence and nation proof",
+     "level": 2
+    },
+    {
+     "id": "section-28-law-source-entity-fields",
+     "label": "Section 28 — Law-source entity fields",
+     "level": 2
+    },
+    {
+     "id": "section-29-evidence-object-ladder",
+     "label": "Section 29 — Evidence-object ladder",
+     "level": 2
+    },
+    {
+     "id": "section-30-archive-labels-that-require-restraint",
+     "label": "Section 30 — Archive labels that require restraint",
+     "level": 2
+    },
+    {
+     "id": "section-31-search-exhaustion-fields",
+     "label": "Section 31 — Search-exhaustion fields",
+     "level": 2
+    },
+    {
+     "id": "section-32-canonical-merges-correcting-edition-1-6-alpha",
+     "label": "Section 32 — Canonical merges correcting Edition 1.6-alpha",
+     "level": 2
+    },
+    {
+     "id": "section-33-genuine-named-additions-from-edition-1-6-alpha",
+     "label": "Section 33 — Genuine named additions from Edition 1.6-alpha",
+     "level": 2
+    },
+    {
+     "id": "section-34-named-additions-from-edition-1-7-alpha",
+     "label": "Section 34 — Named additions from Edition 1.7-alpha",
+     "level": 2
+    },
+    {
+     "id": "section-35-plural-entry-disaggregation-queue",
+     "label": "Section 35 — Plural-entry disaggregation queue",
+     "level": 2
+    },
+    {
+     "id": "section-36-milestone-nonoverlap-audit",
+     "label": "Section 36 — Milestone nonoverlap audit",
+     "level": 2
+    },
+    {
+     "id": "section-37-visual-evidence-admission-gate",
+     "label": "Section 37 — Visual evidence admission gate",
+     "level": 2
+    },
+    {
+     "id": "section-38-equal-measure-visual-acquisition-board",
+     "label": "Section 38 — Equal-measure visual acquisition board",
+     "level": 2
+    },
+    {
+     "id": "registry-revision-1-9-visual-evidence-control",
+     "label": "REGISTRY REVISION 1.9 — VISUAL EVIDENCE CONTROL",
+     "level": 2
+    },
+    {
+     "id": "working-research-edition-1-10-alpha",
+     "label": "Working Research Edition 1.10-alpha",
+     "level": 2
+    },
+    {
+     "id": "section-39-recaptive-and-destination-record-attachment-controls",
+     "label": "Section 39 — Recaptive and destination-record attachment controls",
+     "level": 2
+    },
+    {
+     "id": "section-40-labels-excluded-from-automatic-nation-promotion",
+     "label": "Section 40 — Labels excluded from automatic nation promotion",
+     "level": 2
+    },
+    {
+     "id": "registry-revision-1-11-catalog-identity-control",
+     "label": "REGISTRY REVISION 1.11 — CATALOG-IDENTITY CONTROL",
+     "level": 2
+    },
+    {
+     "id": "section-41-labels-barred-from-visual-promotion",
+     "label": "Section 41 — Labels barred from visual promotion",
+     "level": 2
+    },
+    {
+     "id": "strict-nonoverlap-status",
+     "label": "Strict nonoverlap status",
+     "level": 3
+    },
+    {
+     "id": "section-42-labels-excluded-from-nation-promotion",
+     "label": "Section 42 — Labels excluded from nation promotion",
+     "level": 2
+    },
+    {
+     "id": "registry-revision-1-13-witness-and-culture-label-control",
+     "label": "REGISTRY REVISION 1.13 — WITNESS AND CULTURE-LABEL CONTROL",
+     "level": 2
+    },
+    {
+     "id": "section-43-catalog-culture-labels-are-not-polity-admissions",
+     "label": "Section 43 — Catalog culture labels are not polity admissions",
+     "level": 3
+    },
+    {
+     "id": "section-44-marinerito-number-and-place-controls",
+     "label": "Section 44 — Marinerito number and place controls",
+     "level": 3
+    },
+    {
+     "id": "strict-nonoverlap-status-2",
+     "label": "Strict nonoverlap status",
+     "level": 3
+    },
+    {
+     "id": "registry-revision-1-14-person-name-and-image-medium-control",
+     "label": "REGISTRY REVISION 1.14 — PERSON-NAME AND IMAGE-MEDIUM CONTROL",
+     "level": 2
+    },
+    {
+     "id": "section-45-a-personal-name-is-not-automatically-a-nation-name",
+     "label": "Section 45 — A personal name is not automatically a nation name",
+     "level": 3
+    },
+    {
+     "id": "section-46-printed-image-labels-do-not-create-polities",
+     "label": "Section 46 — Printed-image labels do not create polities",
+     "level": 3
+    },
+    {
+     "id": "section-47-family-coordinates-remain-on-the-person-track",
+     "label": "Section 47 — Family coordinates remain on the person track",
+     "level": 3
+    },
+    {
+     "id": "strict-nonoverlap-status-3",
+     "label": "Strict nonoverlap status",
+     "level": 3
+    },
+    {
+     "id": "registry-revision-1-15-publication-layer-and-register-seam-control",
+     "label": "REGISTRY REVISION 1.15 — PUBLICATION-LAYER AND REGISTER-SEAM CONTROL",
+     "level": 2
+    },
+    {
+     "id": "section-48-a-page-turn-alignment-is-person-evidence",
+     "label": "Section 48 — A page-turn alignment is person evidence",
+     "level": 3
+    },
+    {
+     "id": "section-49-publication-titles-and-later-crosswalks-stay-typed",
+     "label": "Section 49 — Publication titles and later crosswalks stay typed",
+     "level": 3
+    },
+    {
+     "id": "strict-nonoverlap-status-4",
+     "label": "Strict nonoverlap status",
+     "level": 3
+    },
+    {
+     "id": "registry-revision-1-16-tract-testimony-and-witness-seam-control",
+     "label": "REGISTRY REVISION 1.16 — TRACT, TESTIMONY, AND WITNESS-SEAM CONTROL",
+     "level": 2
+    },
+    {
+     "id": "section-51-a-named-person-remains-a-person-record",
+     "label": "Section 51 — A named person remains a person record",
+     "level": 3
+    },
+    {
+     "id": "section-52-witness-divergence-cannot-manufacture-an-ethnonym",
+     "label": "Section 52 — Witness divergence cannot manufacture an ethnonym",
+     "level": 3
+    },
+    {
+     "id": "section-53-printed-series-titles-remain-publication-evidence",
+     "label": "Section 53 — Printed series titles remain publication evidence",
+     "level": 3
+    },
+    {
+     "id": "strict-nonoverlap-status-5",
+     "label": "Strict nonoverlap status",
+     "level": 3
+    },
+    {
+     "id": "registry-revision-1-17-page-seams-and-school-image-control",
+     "label": "REGISTRY REVISION 1.17 — PAGE SEAMS AND SCHOOL IMAGE CONTROL",
+     "level": 2
+    },
+    {
+     "id": "section-53-repeated-names-remain-person-records",
+     "label": "Section 53 — Repeated names remain person records",
+     "level": 3
+    },
+    {
+     "id": "section-54-institutions-and-catalog-titles-are-not-nations",
+     "label": "Section 54 — Institutions and catalog titles are not nations",
+     "level": 3
+    },
+    {
+     "id": "section-55-medium-and-appearance-cannot-supply-ancestry",
+     "label": "Section 55 — Medium and appearance cannot supply ancestry",
+     "level": 3
+    },
+    {
+     "id": "strict-nonoverlap-status-6",
+     "label": "Strict nonoverlap status",
+     "level": 3
+    },
+    {
+     "id": "registry-revision-1-18-probabilistic-provenance-and-portrait-object-control",
+     "label": "REGISTRY REVISION 1.18 — PROBABILISTIC PROVENANCE AND PORTRAIT-OBJECT CONTROL",
+     "level": 2
+    },
+    {
+     "id": "section-56-a-probabilistic-region-is-not-a-nation",
+     "label": "Section 56 — A probabilistic region is not a nation",
+     "level": 3
+    },
+    {
+     "id": "section-57-a-sitter-and-an-exposure-remain-separately-typed",
+     "label": "Section 57 — A sitter and an exposure remain separately typed",
+     "level": 3
+    },
+    {
+     "id": "section-58-catalog-labels-remain-attributed-metadata",
+     "label": "Section 58 — Catalog labels remain attributed metadata",
+     "level": 3
+    },
+    {
+     "id": "section-59-ditto-and-ordinal-forms-stay-in-the-witness",
+     "label": "Section 59 — Ditto and ordinal forms stay in the witness",
+     "level": 3
+    },
+    {
+     "id": "strict-nonoverlap-status-7",
+     "label": "Strict nonoverlap status",
+     "level": 3
+    },
+    {
+     "id": "edition-1-19-entity-classification-and-evidence-limits",
+     "label": "Edition 1 19 entity classification and evidence limits",
+     "level": 2
+    },
+    {
+     "id": "kongo-dossier-additions",
+     "label": "Kongo dossier additions",
+     "level": 3
+    },
+    {
+     "id": "positive-collective-evidence-held-outside-the-roster",
+     "label": "Positive collective evidence held outside the roster",
+     "level": 3
+    },
+    {
+     "id": "new-records-without-nation-assignments",
+     "label": "New records without nation assignments",
+     "level": 3
+    },
+    {
+     "id": "status-of-the-combined-unesco-references",
+     "label": "Status of the combined UNESCO references",
+     "level": 2
+    },
+    {
+     "id": "cp-009-limits-of-political-control-and-classification",
+     "label": "CP-009: limits of political control and classification",
+     "level": 2
+    },
+    {
+     "id": "cp-010-boina-dossier-qualification",
+     "label": "CP-010: Boina dossier qualification",
+     "level": 2
+    },
+    {
+     "id": "cp-011-boina-source-lineage-correction",
+     "label": "CP-011: Boina source-lineage correction",
+     "level": 2
+    },
+    {
+     "id": "cp-012-marinerito-person-record-boundary",
+     "label": "CP-012: Marinerito person-record boundary",
+     "level": 2
+    },
+    {
+     "id": "cp-013-marinerito-person-record-boundary",
+     "label": "CP-013: Marinerito person-record boundary",
+     "level": 2
+    },
+    {
+     "id": "cp-014-marinerito-person-record-boundary",
+     "label": "CP-014: Marinerito person-record boundary",
+     "level": 2
+    },
+    {
+     "id": "cp-015-marinerito-person-record-boundary",
+     "label": "CP-015: Marinerito person-record boundary",
+     "level": 2
+    },
+    {
+     "id": "cp-016-marinerito-person-record-boundary",
+     "label": "CP-016: Marinerito person-record boundary",
+     "level": 2
+    },
+    {
+     "id": "cp-017-marinerito-person-record-boundary",
+     "label": "CP-017: Marinerito person-record boundary",
+     "level": 2
+    },
+    {
+     "id": "cp-018-marinerito-person-record-boundary",
+     "label": "CP-018: Marinerito person-record boundary",
+     "level": 2
+    }
+   ]
+  }
+ }
+}

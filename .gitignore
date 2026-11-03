@@ -20,3 +20,6 @@ __pycache__/
 **/playwright-report/
 quality-environment.json
 config/build-release.json
+
+# Generated at build time from policy/ by scripts/copy-public-documents.mjs
+apps/public/public/documents/
