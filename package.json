@@ -13,7 +13,7 @@
   ],
   "scripts": {
     "test": "node --test tests/application/*.test.mjs tests/environment/*.test.mjs tests/access/*.test.mjs tests/data/*.test.mjs tests/security/*.test.mjs tests/review/*.test.mjs tests/runtime/*.test.mjs",
-    "build:public": "node scripts/write-release.mjs && node scripts/copy-public-documents.mjs && npm run build --workspace=@garden/public",
+    "build:public": "node scripts/write-release.mjs && npm run build --workspace=@garden/public",
     "build:research": "node scripts/write-release.mjs && npm run build --workspace=@garden/research",
     "typecheck": "npm run typecheck --workspaces --if-present && tsc -p config/tsconfig.json",
     "check": "npm run test && npm run typecheck && npm run build:public && npm run build:research",
